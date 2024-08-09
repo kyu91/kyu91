@@ -2,7 +2,10 @@
 
 - 🤔 Blog : https://levih.me
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyu91&show_icons=true&theme=radical)
+
+
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyu91&show_icons=true&theme=radical) |[<img src="https://streak-stats.demolab.com/?user=kyu91&theme=dark" height="185" />](https://git.io/streak-stats)
+| ------ | ------ |
 
 <!--
 **SeokKyuHong/SeokKyuHong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
