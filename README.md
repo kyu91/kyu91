@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🤔 Blog : https://h-levi.me
+- 🤔 Blog : https://kyu91.github.io/
 
 
 
