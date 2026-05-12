@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🤔 Blog : https://kyu91.github.io/
+- 🤔 Blog : https://blog.haas.kr/
 
 
 
